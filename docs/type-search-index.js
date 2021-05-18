@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pgn.exUD4","l":"EdadErroneaException"},{"p":"pgn.exUD4","l":"Gato"},{"p":"pgn.exUD4","l":"Mamifero"}]
